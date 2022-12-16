@@ -1,0 +1,17 @@
+{
+	"userDataList":
+	[
+		{
+		  "ID": "123456",
+		  "Name": "Suzuki Seiya",
+		  "Gender": "Man",
+		  "Age": 24
+	  	},
+	  	{
+		  "ID": "ねこねこねこねこ1",
+		  "Name": "Sasaki Saki",
+		  "Gender": "woman",
+		  "Age": 17
+	  	}
+	]
+}
